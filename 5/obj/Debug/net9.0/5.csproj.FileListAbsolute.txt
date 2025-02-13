@@ -1,0 +1,15 @@
+C:\Users\yengl\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\Problemáticas\5\bin\Debug\net9.0\5.exe
+C:\Users\yengl\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\Problemáticas\5\bin\Debug\net9.0\5.deps.json
+C:\Users\yengl\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\Problemáticas\5\bin\Debug\net9.0\5.runtimeconfig.json
+C:\Users\yengl\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\Problemáticas\5\bin\Debug\net9.0\5.dll
+C:\Users\yengl\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\Problemáticas\5\bin\Debug\net9.0\5.pdb
+C:\Users\yengl\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\Problemáticas\5\obj\Debug\net9.0\5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yengl\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\Problemáticas\5\obj\Debug\net9.0\5.AssemblyInfoInputs.cache
+C:\Users\yengl\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\Problemáticas\5\obj\Debug\net9.0\5.AssemblyInfo.cs
+C:\Users\yengl\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\Problemáticas\5\obj\Debug\net9.0\5.csproj.CoreCompileInputs.cache
+C:\Users\yengl\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\Problemáticas\5\obj\Debug\net9.0\5.sourcelink.json
+C:\Users\yengl\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\Problemáticas\5\obj\Debug\net9.0\5.dll
+C:\Users\yengl\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\Problemáticas\5\obj\Debug\net9.0\refint\5.dll
+C:\Users\yengl\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\Problemáticas\5\obj\Debug\net9.0\5.pdb
+C:\Users\yengl\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\Problemáticas\5\obj\Debug\net9.0\5.genruntimeconfig.cache
+C:\Users\yengl\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\Problemáticas\5\obj\Debug\net9.0\ref\5.dll
